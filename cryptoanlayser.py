@@ -16,6 +16,7 @@ print("5-Price Comparison with Bar graph\n")
 print("6-Trading Profit Calculator\n")
 print("7-Exit")
 print("=============================================")
+print("Made by Varun")
 opt=input("Enter your choice:")
 if opt=='1':
     print("This project is all about cryptocurrency.We have used python libraries to make this program.We used a python library which is called CryptoCompare,It has all the information and live prices of all the cryptocurrencies.This program is used to track the prices of cryptocurrencies and help us to predict the future prices.")
