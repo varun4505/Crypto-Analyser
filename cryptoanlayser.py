@@ -15,7 +15,6 @@ print("4-Data Visualisation\n")
 print("5-Price Comparison with Bar graph\n")
 print("6-Trading Profit Calculator\n")
 print("7-Exit")
-print("This Project is made by Varun,Tejas and Karthik")
 print("=============================================")
 opt=input("Enter your choice:")
 if opt=='1':
