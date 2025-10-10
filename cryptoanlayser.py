@@ -386,8 +386,6 @@ elif opt=='7':
     exit()
 else:
     print("Invalid choice.Please Try Again")
-   
-
 #**********************************************
 
             
@@ -398,3 +396,4 @@ else:
                   
                 
     
+
